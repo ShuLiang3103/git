@@ -2,8 +2,5 @@ hello shuLiang !!!
 hello shuLiang !!!
 hello shuLiang !!!
 
-
 第3次，在master分支上修改
-
 第2次，在hot-fix分支上修改
-
